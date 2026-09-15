@@ -59,6 +59,7 @@ Estou em constante processo de aprendizado, e isso não é um estado temporário
 - Encarar problemas complexos como padrão, não como exceção
 - Nunca estagnar: aprender é parte contínua do processo, não uma etapa a ser concluída
 </div>
+
 ---
 
 <div align="center">
