@@ -6,9 +6,9 @@
 
 *Construindo bases sólidas para resolver problemas complexos — da lógica ao hardware.*
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40rafaelqueiirooz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafaelqueiirooz)
-[![Email](https://img.shields.io/badge/Email-queirozrafaeldev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queirozrafaeldev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-83994449725-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583994449725)
+<a href="https://instagram.com/rafaelqueiirooz"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="mailto:queirozrafaeldev@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="36" height="36" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://wa.me/5583994449725"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="36" height="36" alt="WhatsApp" /></a>
 
 </div>
 
@@ -26,13 +26,14 @@ Meu objetivo é evoluir continuamente como desenvolvedor, expandindo minha atua�
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/c/A8B9CC" width="48" height="48" alt="C" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" alt="CSS3" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="SQL" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
+
 </div>
 
 **Áreas de interesse para aprofundamento:** Inteligência Artificial, Ciência de Dados, Desenvolvimento Backend, Linguagens de Baixo Nível.
@@ -66,6 +67,8 @@ Estou em constante processo de aprendizado, e isso não é um estado temporário
 
 ### Vamos conversar?
 
-📱 **83994449725** &nbsp;|&nbsp; ✉️ **queirozrafaeldev@gmail.com** &nbsp;|&nbsp; 📷 **[@rafaelqueiirooz](https://instagram.com/rafaelqueiirooz)**
+<a href="https://wa.me/5583994449725"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" /></a>&nbsp;&nbsp;
+<a href="mailto:queirozrafaeldev@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/rafaelqueiirooz"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" /></a>
 
 </div>
