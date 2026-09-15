@@ -29,7 +29,7 @@ Meu objetivo √© evoluir continuamente como desenvolvedor, expandindo minha atua√
 <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="48" height="48" alt="C" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" alt="CSS3" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="SQL" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
