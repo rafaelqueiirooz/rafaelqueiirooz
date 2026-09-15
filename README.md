@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software com um perfil orientado à profundidade técnica: não busco apenas fazer o código funcionar, busco entender **por que** ele funciona — da lógica que sustenta um algoritmo até o comportamento do sistema por trás dele. Tenho interesse genuíno por desafios técnicos densos, programação de baixo nível e pela "raiz" das tecnologias que utilizo.
+Sou estudante de Engenharia de Software com um perfil orientado à profundidade técnica: não busco apenas fazer o código funcionar, busco entender **por que** ele funciona — da lógica que sustenta um algoritmo até o comportamento do sistema por trás dele. 
 
 Meu objetivo é evoluir continuamente como desenvolvedor, expandindo minha atuação entre **backend, dados e inteligência artificial**, sem abrir mão do entendimento estrutural que só a base sólida em lógica, sistemas e linguagens de baixo nível proporciona.
 
@@ -32,17 +32,8 @@ Meu objetivo é evoluir continuamente como desenvolvedor, expandindo minha atua�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
 
-</div>
-
-- **Lógica de Programação** — base estruturada para resolução de problemas e algoritmos
-- **Python** — scripting, automação e primeiros passos em dados e IA
-- **C** — entendimento de baixo nível, gerenciamento de memória e performance
-- **Banco de Dados & SQL** — modelagem, consultas e estruturação de dados relacionais
-- **HTML & CSS** — fundamentos de desenvolvimento web
-- **Linux** — ambiente de desenvolvimento, terminal e administração básica de sistemas
-- **Git** — controle de versão e fluxo de trabalho colaborativo
 
 **Áreas de interesse para aprofundamento:** Inteligência Artificial, Ciência de Dados, Desenvolvimento Backend, Linguagens de Baixo Nível.
 
