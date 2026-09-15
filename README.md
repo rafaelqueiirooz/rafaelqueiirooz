@@ -38,9 +38,9 @@ Meu objetivo é evoluir continuamente como desenvolvedor, expandindo minha atua�
 **Áreas de interesse para aprofundamento:** Inteligência Artificial, Ciência de Dados, Desenvolvimento Backend, Linguagens de Baixo Nível.
 
 ---
-<div align="left">
-## Soft Skills
 
+## Soft Skills
+<div align="left">
 - **Alta capacidade de adaptação** — transito entre diferentes tecnologias e contextos com facilidade, ajustando rapidamente minha abordagem diante de novos problemas
 - **Foco e disciplina** — mantenho constância no estudo e na resolução de problemas complexos, mesmo diante de curvas de aprendizado íngremes
 - **Sede por progresso** — encaro cada dificuldade como oportunidade de evolução; não busco o caminho mais fácil, busco o mais sólido
