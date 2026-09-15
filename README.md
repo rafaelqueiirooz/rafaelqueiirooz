@@ -33,12 +33,12 @@ Meu objetivo é evoluir continuamente como desenvolvedor, expandindo minha atua�
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
-
+</div>
 
 **Áreas de interesse para aprofundamento:** Inteligência Artificial, Ciência de Dados, Desenvolvimento Backend, Linguagens de Baixo Nível.
 
 ---
-
+<div align="left">
 ## Soft Skills
 
 - **Alta capacidade de adaptação** — transito entre diferentes tecnologias e contextos com facilidade, ajustando rapidamente minha abordagem diante de novos problemas
@@ -57,7 +57,7 @@ Estou em constante processo de aprendizado, e isso não é um estado temporário
 - Evoluir para atuação profissional em **backend**, **dados** e **inteligência artificial**
 - Encarar problemas complexos como padrão, não como exceção
 - Nunca estagnar: aprender é parte contínua do processo, não uma etapa a ser concluída
-
+</div>
 ---
 
 <div align="center">
